@@ -1,0 +1,44 @@
+===================Loss & Damage Project============================
+Web: git@github.com:webexpert4rv/Mathew-Kurian-Lose-and-Damage-Web.git
+Admin: git@github.com:webexpert4rv/Mathew-Kurian-Lose-and-Damage-Admin.git
+API: git@github.com:webexpert4rv/Mathew-Kurian-Lose-and-Damage-API.git
+Flutter: git@github.com:webexpert4rv/Mathew-Kurian-Lose-and-Damage-Flutter.git
+
+/************These are old git***********/
+git@github.com:webexpert4rv/Iberto_chargeitspot_admin.git
+git@github.com:webexpert4rv/Iberto_chargeitspot_web.git
+git@github.com:webexpert4rv/Iberto_chargeitspot_mobile_app.git
+/************These are old git***********/
+
+
+Login Email And Password:
+superadmin@lossdamage.com
+Sup3r@dm!n
+
+Coordinator Module : https://www.figma.com/proto/zbJzRQf9I0uqkRM9I4Xpes/The-Climate-Panel?page-id=0%3A1&type=design&node-id=396-1325&viewport=626%2C236%2C0.49&scaling=scale-down
+
+Expert Module : https://www.figma.com/proto/zbJzRQf9I0uqkRM9I4Xpes/The-Climate-Panel?page-id=30%3A5457&type=design&node-id=396-11382&viewport=1380%2C632%2C0.44&scaling=scale-down
+
+Find here database : 
+https://docs.google.com/spreadsheets/d/1xHjQ7kk98W_LZVp9RXZDwWaP2Tutz4q_gifDDjA6yg0/edit#gid=0
+
+https://www.figma.com/file/zbJzRQf9I0uqkRM9I4Xpes/The-Climate-Panel?type=design&node-id=396-2263&t=bqvasOAx7n9mCWw2-0
+
+https://server3.rvtechnologies.in/loss-and-damage/admin/public/index.php/login
+
+
+
+
+/****QA**/
+Q1=Based on your experience, which regions, are witnessing extreme rates *
+of land use change?
+
+option1 => region A [checkbox], region B [checkbox] , 
+option2 => region A , region B , region C
+option3 => region A , region B , region C
+
+value column for text, ,mostunlikely and mostlikely
+
+TO BE discussed: 
+Registered Coordinater's Regions ==A , B , C and Question are fixed. 
+Coordinater's=>"Expert" , show fixed question with dynamic (registered) regions
